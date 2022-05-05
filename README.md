@@ -1,4 +1,4 @@
-# PowerDocs Web Feedback
+# PowerDocs Feedback
 This repository collects all feature requests and bugs for [PowerDocs.net](https://powerdocs.net) and [PowerDocs App](https://app.powerdocs.net).
 If you experience any issues, encounter bugs or have a feature request, you're welcome to create a new Issue on this [repository](https://github.com/PowerDocs-net/platform_feedback/issues).
 
